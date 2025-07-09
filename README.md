@@ -30,6 +30,5 @@
 ---
 
 ### 🔗 Connect with me
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/anas-mp-b6104a324/
-)) *(replace with your actual link)*
+- [LinkedIn](https://www.linkedin.com/in/anas-mp-b6104a324/)
 

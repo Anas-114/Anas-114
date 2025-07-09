@@ -1,16 +1,34 @@
-## Hi there 👋
+# 👋 Hi there! I'm Anas
 
-<!--
-**Anas-114/Anas-114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌐 **Frontend Developer** | 💡 Passionate about building responsive, user-friendly web & mobile apps  
+🔧 Strong in **HTML**, **CSS**, **JavaScript**  
+📱 Currently learning **Dart** & **Flutter** to build cross-platform mobile apps  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Frontend**: HTML, CSS, JavaScript
+- **Learning**: Dart, Flutter
+
+---
+
+### 📚 Currently Learning
+- Dart fundamentals
+- Flutter UI & state management
+- Building real-world projects with Firebase
+
+---
+
+### 📈 GitHub Stats
+![Anas's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anas-114&show_icons=true&theme=radical)
+
+---
+
+### 💬 Quote
+> "Code is like humor. When you have to explain it, it’s bad." – Cory House
+
+---
+
+### 🔗 Connect with me
+- [LinkedIn](https://linkedin.com/in/your-profile) *(replace with your actual link)*
+
